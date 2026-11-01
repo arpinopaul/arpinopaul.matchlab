@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Matchday Lab \u2014 Live Football & Premier League Predictor",
+  "short_name": "Matchday Lab",
+  "description": "Live football match centre, head-to-head results and Premier League season simulations.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0c1421",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
